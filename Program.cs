@@ -103,7 +103,25 @@ namespace Supermarket_bun
 
 
         }
-
+        
+     //Citire produs de la tastatura
+     
+     public static Produs CitireProdusTastatura()
+     {
+        Console.WriteLine("Introduceti numele produsului:");
+        string nume = Console.Readline();
+        Console.WriteLine("Introduceti tipul produsului:");
+        string tip_produs = Console.ReadLine();
+        Console.WriteLine("Introduceti data de expirare :");
+        string data_exp = Console.ReadLine();
+        Produs produs = new Produs(0,nume,tip_produs,data_exp);
+        
+        return produs;
+      }
+       
+       
+      //Citire furnizor de la tastatura
+      
     }
 
 }
