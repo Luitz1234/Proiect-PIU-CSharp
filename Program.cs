@@ -122,6 +122,55 @@ namespace Supermarket_bun
        
       //Citire furnizor de la tastatura
       
+        public static Furnizori CitireFurnizorTastatura()
+        {
+            Console.WriteLine("Introduceti numele furnizorului:");
+            string nume_fur = Console.ReadLine();
+            Console.WriteLine("Introduceti adresa furnizorului :");
+            string adresa_fur = Console.ReadLine();
+            Console.WriteLine("Introduceti numarul de telefon :");
+            string nr_tel = Console.ReadLine();
+            Furnizori furnizori = new Furnizori(nume_fur, adresa_fur, nr_tel);
+
+            return furnizori;
+        }
+        //Afisare produs
+        public static void AfisareProdus(Produs produs)
+        {
+            string infoProdus = string.Format("Id: {0}, Denumire: {1}, Tip: {2}, Data expirare: {3}",
+                   produs.GetIdProdus(),
+                   produs.Get_nume() ?? " Necunoscut ",
+                   produs.Get_tip() ?? " Necunoscut ",
+                   produs.Get_data_expirare() ?? " Necunoscut ");
+
+            Console.WriteLine(infoProdus);
+        }
+
+        public static void AfisareProduse(Produs[] lista_produse,int nrProduse)
+        {
+            Console.WriteLine("Produsele sunt: ");
+            for (int contor = 0; contor < nrProduse; contor++)
+                AfisareProdus(lista_produse[contor]);
+        }
+
+        //Afisare furnizor
+        public static void AfisareFurnizor(Furnizori furnizori)
+        {
+            string infoFurnizori = string.Format("Nume: {0}, Adresa: {1}, Numar de telefon: {2}",
+                   furnizori.GetNumeFurnizori() ?? "Necunoscut",
+                   furnizori.GetAdresaFurnizori() ?? " Necunoscut ",
+                   furnizori.GetNumarTelefon() ?? " Necunoscut ");
+
+            Console.WriteLine(infoFurnizori);
+        }
+
+        public static void AfisareFurnizori(Furnizori[] lista_furnizori, int nrFurnizori)
+        {
+            Console.WriteLine("Furnizorii sunt: ");
+            for (int contor = 0; contor < nrFurnizori; contor++)
+                AfisareFurnizor(lista_furnizori[contor]);
+        }
+
     }
 
 }
