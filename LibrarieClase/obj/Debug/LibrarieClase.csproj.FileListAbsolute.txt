@@ -1,0 +1,16 @@
+C:\Users\Mada\Desktop\Proiect POO\Supermarket_bun\LibrarieClase\bin\Debug\LibrarieClase.dll
+C:\Users\Mada\Desktop\Proiect POO\Supermarket_bun\LibrarieClase\bin\Debug\LibrarieClase.pdb
+C:\Users\Mada\Desktop\Proiect POO\Supermarket_bun\LibrarieClase\bin\Debug\Guna.UI2.dll
+C:\Users\Mada\Desktop\Proiect POO\Supermarket_bun\LibrarieClase\obj\Debug\LibrarieClase.csproj.AssemblyReference.cache
+C:\Users\Mada\Desktop\Proiect POO\Supermarket_bun\LibrarieClase\obj\Debug\LibrarieClase.csproj.CoreCompileInputs.cache
+C:\Users\Mada\Desktop\Proiect POO\Supermarket_bun\LibrarieClase\obj\Debug\LibrarieClase.csproj.CopyComplete
+C:\Users\Mada\Desktop\Proiect POO\Supermarket_bun\LibrarieClase\obj\Debug\LibrarieClase.dll
+C:\Users\Mada\Desktop\Proiect POO\Supermarket_bun\LibrarieClase\obj\Debug\LibrarieClase.pdb
+D:\UNI WORK\ANUL 1 2021 - 2022\PIU ANUL 2 2023\Supermarket_bun\LibrarieClase\bin\Debug\LibrarieClase.dll
+D:\UNI WORK\ANUL 1 2021 - 2022\PIU ANUL 2 2023\Supermarket_bun\LibrarieClase\bin\Debug\LibrarieClase.pdb
+D:\UNI WORK\ANUL 1 2021 - 2022\PIU ANUL 2 2023\Supermarket_bun\LibrarieClase\bin\Debug\Guna.UI2.dll
+D:\UNI WORK\ANUL 1 2021 - 2022\PIU ANUL 2 2023\Supermarket_bun\LibrarieClase\obj\Debug\LibrarieClase.csproj.AssemblyReference.cache
+D:\UNI WORK\ANUL 1 2021 - 2022\PIU ANUL 2 2023\Supermarket_bun\LibrarieClase\obj\Debug\LibrarieClase.csproj.CoreCompileInputs.cache
+D:\UNI WORK\ANUL 1 2021 - 2022\PIU ANUL 2 2023\Supermarket_bun\LibrarieClase\obj\Debug\LibrarieClase.csproj.CopyComplete
+D:\UNI WORK\ANUL 1 2021 - 2022\PIU ANUL 2 2023\Supermarket_bun\LibrarieClase\obj\Debug\LibrarieClase.dll
+D:\UNI WORK\ANUL 1 2021 - 2022\PIU ANUL 2 2023\Supermarket_bun\LibrarieClase\obj\Debug\LibrarieClase.pdb
